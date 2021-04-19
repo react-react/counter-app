@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Counter from "./components/Counter";
+import Counters from "./components/Counters";
 import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
     //   </header>
     // </div>
 
-    <Counter />
+    <Counters />
   );
 }
 
